@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Cielaria">
+  <rect width="16" height="16" rx="3" fill="#3d9fe8"/>
+  <rect x="2" y="10" width="8" height="5" fill="#2a4f8f"/>
+  <rect x="8" y="6" width="6" height="6" fill="#e89aaa"/>
+  <rect x="3" y="3" width="6" height="5" fill="#f7f4ee"/>
+  <rect x="5" y="5" width="2" height="2" fill="#1c2430"/>
+</svg>
